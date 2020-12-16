@@ -30,6 +30,12 @@
           {"displacement": "3.0", "drivetype": "4"},
           {"displacement": "2.5", "drivetype": "2"},
           {"displacement": "2.5", "drivetype": "4"}
+        ],
+        "2011": [
+          {"displacement": "3.0", "drivetype": "2"},
+          {"displacement": "3.0", "drivetype": "4"},
+          {"displacement": "2.5", "drivetype": "2"},
+          {"displacement": "2.5", "drivetype": "4"}
         ]
       },
       "Expedition": {
