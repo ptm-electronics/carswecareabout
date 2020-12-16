@@ -1,5 +1,6 @@
 {
     "Ford": {
+<<<<<<< HEAD
       "Edge": {
         "2007": [
           {"displacement": "3.5", "drivetype": "4"},
@@ -180,6 +181,10 @@
           {"displacement": "5.4", "drivetype": "4"}
         ]
       }
+=======
+      "Edge": ["2011", "2012", "2013"],
+      "Escape": ["2011", "2012"]
+>>>>>>> 9fc50cdf4c41cfed2247e85777ac571c576e6c33
     },
     "Mercury": {
       "Mariner": {
