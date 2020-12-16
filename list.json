@@ -1,3 +1,19 @@
 {
-  "list": ["Ford Explorer", "Ford Fusion"]
+  "list": [
+    "2007-2010 Ford Edge",
+    "2009-2011 Ford Escape",
+    "2007-2010 Ford Expedition",
+    "2007-2010 Ford Explorer",
+    "2009-2010 Ford F150",
+    "2009-2012 Ford Flex",
+    "2010 Ford Fusion",
+    "2007-2012 Ford Taurus",
+    "2009-2012 Lincoln Mks",
+    "2010-2012 Lincoln Mkt",
+    "2007-2009 Lincoln Mkx",
+    "2009-2010 Lincoln Navigator",
+    "2009-2010 Mercury Mariner",
+    "2007-2010 Mercury Mountaineer",
+    "2007-2009 Mercury Sable"
+  ]
 }
