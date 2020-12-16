@@ -74,7 +74,21 @@
           {"displacement": "4.6", "drivetype": "4"}
         ]
       },
-      "f150": {
+      "f-150": {
+        "2009": [
+          {"displacement": "5.4", "drivetype": "2"},
+          {"displacement": "5.4", "drivetype": "4"},
+          {"displacement": "4.6", "drivetype": "2"},
+          {"displacement": "4.6", "drivetype": "4"}
+        ],
+        "2010": [
+          {"displacement": "4.6", "drivetype": "2"},
+          {"displacement": "4.6", "drivetype": "4"},
+          {"displacement": "5.4", "drivetype": "2"},
+          {"displacement": "5.4", "drivetype": "4"}
+        ]
+      },
+        "f150": {
         "2009": [
           {"displacement": "5.4", "drivetype": "2"},
           {"displacement": "5.4", "drivetype": "4"},
