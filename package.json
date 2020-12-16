@@ -1,0 +1,10 @@
+{
+  "name": "carswecareabout",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ptm-electronics/carswecareabout",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}

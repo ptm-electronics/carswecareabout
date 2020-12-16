@@ -1,10 +1,231 @@
 {
     "Ford": {
-      "Edge": ["2011", "2012", "2013"],
-      "Escape": ["2011", "2012", "2013"]
+      "Edge": {
+        "2007": [
+          {"displacement": "3.5", "drivetype": "4"},
+          {"displacement": "3.5", "drivetype": "2"}
+        ],
+        "2008": [
+          {"displacement": "3.5", "drivetype": "4"},
+          {"displacement": "3.5", "drivetype": "2"}
+        ],
+        "2009": [
+          {"displacement": "3.5", "drivetype": "4"},
+          {"displacement": "3.5", "drivetype": "2"}
+        ],
+        "2010": [
+          {"displacement": "3.5", "drivetype": "4"},
+          {"displacement": "3.5", "drivetype": "2"}
+        ]
+      },
+      "Escape": {
+        "2009": [
+          {"displacement": "3.0", "drivetype": "2"},
+          {"displacement": "3.0", "drivetype": "4"},
+          {"displacement": "2.5", "drivetype": "2"},
+          {"displacement": "2.5", "drivetype": "4"}
+        ],
+        "2010": [
+          {"displacement": "3.0", "drivetype": "2"},
+          {"displacement": "3.0", "drivetype": "4"},
+          {"displacement": "2.5", "drivetype": "2"},
+          {"displacement": "2.5", "drivetype": "4"}
+        ]
+      },
+      "Expedition": {
+        "2007": [
+          {"displacement": "5.4", "drivetype": "2"},
+          {"displacement": "5.4", "drivetype": "4"}
+        ],
+        "2008": [
+          {"displacement": "5.4", "drivetype": "2"},
+          {"displacement": "5.4", "drivetype": "4"}
+        ],
+        "2009": [
+          {"displacement": "5.4", "drivetype": "2"},
+          {"displacement": "5.4", "drivetype": "4"}
+        ],
+        "2010": [
+          {"displacement": "5.4", "drivetype": "2"},
+          {"displacement": "5.4", "drivetype": "4"}
+        ]
+      },
+      "Explorer": {
+        "2007": [
+          {"displacement": "4.6", "drivetype": "2"},
+          {"displacement": "4.6", "drivetype": "4"}
+        ],
+        "2008": [
+          {"displacement": "4.6", "drivetype": "2"},
+          {"displacement": "4.6", "drivetype": "4"}
+        ],
+        "2009": [
+          {"displacement": "4.6", "drivetype": "2"},
+          {"displacement": "4.6", "drivetype": "4"}
+        ],
+        "2010": [
+          {"displacement": "4.6", "drivetype": "2"},
+          {"displacement": "4.6", "drivetype": "4"}
+        ]
+      },
+      "F150": {
+        "2009": [
+          {"displacement": "5.4", "drivetype": "2"},
+          {"displacement": "5.4", "drivetype": "4"},
+          {"displacement": "4.6", "drivetype": "2"},
+          {"displacement": "4.6", "drivetype": "4"}
+        ],
+        "2010": [
+          {"displacement": "4.6", "drivetype": "2"},
+          {"displacement": "4.6", "drivetype": "4"},
+          {"displacement": "5.4", "drivetype": "2"},
+          {"displacement": "5.4", "drivetype": "4"}
+        ]
+      },
+      "Flex": {
+        "2009": [
+          {"displacement": "3.5", "drivetype": "2"},
+          {"displacement": "3.5", "drivetype": "4"}
+        ],
+        "2010": [
+          {"displacement": "3.5", "drivetype": "4"}
+        ],
+        "2011": [
+          {"displacement": "3.5", "drivetype": "4"}
+        ],
+        "2012": [
+          {"displacement": "3.5", "drivetype": "4"}
+        ]
+      },
+      "Fusion": {
+        "2010": [
+          {"displacement": "3.0", "drivetype": "2"},
+          {"displacement": "3.0", "drivetype": "4"}
+        ]
+      },
+      "Taurus": {
+        "2007": [
+          {"displacement": "3.5", "drivetype": "2"}
+        ],
+        "2008": [
+          {"displacement": "3.5", "drivetype": "2"},
+          {"displacement": "3.5", "drivetype": "4"}
+        ],
+        "2009": [
+          {"displacement": "3.5", "drivetype": "2"},
+          {"displacement": "3.5", "drivetype": "4"}
+        ],
+        "2010": [
+          {"displacement": "3.5", "drivetype": "4"},
+          {"displacement": "3.5", "drivetype": "2"}
+        ],
+        "2011": [
+          {"displacement": "3.5", "drivetype": "4"},
+          {"displacement": "3.5", "drivetype": "2"}
+        ],
+        "2012": [
+          {"displacement": "3.5", "drivetype": "4"},
+          {"displacement": "3.5", "drivetype": "2"}
+        ]
+      }
+    },
+    "Lincoln": {
+      "MKS": {
+        "2009": [
+          {"displacement": "3.5", "drivetype": "2"},
+          {"displacement": "3.5", "drivetype": "4"}
+        ],
+        "2010": [
+          {"displacement": "3.5", "drivetype": "4"}
+        ],
+        "2011": [
+          {"displacement": "3.5", "drivetype": "4"}
+        ],
+        "2012": [
+          {"displacement": "3.5", "drivetype": "4"}
+        ]
+      },
+      "MKT": {
+        "2010": [
+          {"displacement": "3.5", "drivetype": "4"}
+        ],
+        "2011": [
+          {"displacement": "3.5", "drivetype": "4"}
+        ],
+        "2012": [
+          {"displacement": "3.5", "drivetype": "4"}
+        ]
+      },
+      "MKX": {
+        "2007": [
+          {"displacement": "3.5", "drivetype": "4"},
+          {"displacement": "3.5", "drivetype": "2"}
+        ],
+        "2008": [
+          {"displacement": "3.5", "drivetype": "4"},
+          {"displacement": "3.5", "drivetype": "2"}
+        ],
+        "2009": [
+          {"displacement": "3.5", "drivetype": "4"},
+          {"displacement": "3.5", "drivetype": "2"}
+        ]
+      },
+      "Navigator": {
+        "2009": [
+          {"displacement": "5.4", "drivetype": "2"},
+          {"displacement": "5.4", "drivetype": "4"}
+        ],
+        "2010": [
+          {"displacement": "5.4", "drivetype": "2"},
+          {"displacement": "5.4", "drivetype": "4"}
+        ]
+      }
     },
     "Mercury": {
-      "Mariner": ["2011", "2012", "2013"],
-      "Milan": ["2011", "2012", "2013"]
+      "Mariner": {
+        "2009": [
+          {"displacement": "3.0", "drivetype": "2"},
+          {"displacement": "3.0", "drivetype": "4"},
+          {"displacement": "2.5", "drivetype": "2"},
+          {"displacement": "2.5", "drivetype": "4"}
+        ],
+        "2010": [
+          {"displacement": "3.0", "drivetype": "2"},
+          {"displacement": "3.0", "drivetype": "4"},
+          {"displacement": "2.5", "drivetype": "2"},
+          {"displacement": "2.5", "drivetype": "4"}
+        ]
+      },
+      "Mountaineer": {
+        "2007": [
+          {"displacement": "4.6", "drivetype": "2"},
+          {"displacement": "4.6", "drivetype": "4"}
+        ],
+        "2008": [
+          {"displacement": "4.6", "drivetype": "2"},
+          {"displacement": "4.6", "drivetype": "4"}
+        ],
+        "2009": [
+          {"displacement": "4.6", "drivetype": "2"},
+          {"displacement": "4.6", "drivetype": "4"}
+        ],
+        "2010": [
+          {"displacement": "4.6", "drivetype": "2"},
+          {"displacement": "4.6", "drivetype": "4"}
+        ]
+      },
+      "Sable": {
+        "2007": [
+          {"displacement": "3.5", "drivetype": "2"}
+        ],
+        "2008": [
+          {"displacement": "3.5", "drivetype": "2"},
+          {"displacement": "3.5", "drivetype": "4"}
+        ],
+        "2009": [
+          {"displacement": "3.5", "drivetype": "2"},
+          {"displacement": "3.5", "drivetype": "4"}
+        ]
+      }
     }
   }
