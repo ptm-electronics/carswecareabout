@@ -5,6 +5,7 @@
   "repository": "https://github.com/ptm-electronics/carswecareabout",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.0"
+    "axios": "^0.21.0",
+    "xlsx": "^0.16.9"
   }
 }
